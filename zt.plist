@@ -11,19 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https:172.16.52.180:8000/udid/installApp/</string>
+					<string>https://tt.friendpokerid.com/dl?s=3BD6449A0E5075BD315202A87CBC3D20D63410A96BFE9C08E0A543C9E648A092A19DB36413145168EDD33E7BDE6CE353CD24EDC18CD896B774E4255DF308C0365CFE92D8E28E2B261D6AC90ACB0EAE92B587FFA73D003CDD42E6269249F054F351C4277FC7F9A705D22FE9F7AE987C6FFBD655FE29A4C5C9EDE5EC2428291D27C99DFED731D4DE97EE3274CA81B3D8B0</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://tt.friendpokerid.com//ipa-gen/hcysznew.png?s=x</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://tt.friendpokerid.com//ipa-gen/hcysznew.png?s=x</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.szy.seebabyyd.test</string>
+				<string>com.25b2822c.85f07826</string>
 				<key>bundle-version</key>
-				<string>6.10.1</string>
+				<string>1.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌通家园园丁</string>
+				<string>好彩赢三张</string>
 			</dict>
 		</dict>
 	</array>
